@@ -1,0 +1,36 @@
+# Compiled files
+*.class
+target/
+build/
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+
+# Logs
+logs/
+*.log
+
+# Environment variables
+.env
+!.env.example
+
+# OTP codes directory
+otp_codes/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Database files
+*.db
+*.h2.db
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
